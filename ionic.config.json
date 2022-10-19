@@ -1,0 +1,7 @@
+{
+  "name": "dsw-project-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
